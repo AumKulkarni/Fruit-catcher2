@@ -1,1 +1,1 @@
-# Fruit-catcher2
+# fruit-catcher-2
